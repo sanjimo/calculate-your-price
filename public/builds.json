@@ -1,0 +1,22 @@
+[
+    {
+        "key": "b1",
+        "name": "An ecommerce site",
+        "details": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia aliquid temporibus laudantium vitae atque labore dolorem praesentium quod sit aliquam."
+    },
+    {
+        "key": "b2",
+        "name": "An online course platform",
+        "details": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia aliquid temporibus laudantium vitae atque labore dolorem praesentium quod sit aliquam."
+    },
+    {
+        "key": "b3",
+        "name": "A blog sites",
+        "details": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia aliquid temporibus laudantium vitae atque labore dolorem praesentium quod sit aliquam."
+    },
+    {
+        "key": "b4",
+        "name": "My company website with price calculators",
+        "details": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia aliquid temporibus laudantium vitae atque labore dolorem praesentium quod sit aliquam."
+    }
+]

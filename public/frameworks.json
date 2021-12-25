@@ -1,0 +1,27 @@
+[
+    {
+        "key": "f1",
+        "name": "Python",
+        "details": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia aliquid temporibus laudantium vitae atque labore dolorem praesentium quod sit aliquam."
+    },
+    {
+        "key": "f2",
+        "name": "Wordpress",
+        "details": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia aliquid temporibus laudantium vitae atque labore dolorem praesentium quod sit aliquam."
+    },
+    {
+        "key": "f3",
+        "name": "Php Laravel",
+        "details": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia aliquid temporibus laudantium vitae atque labore dolorem praesentium quod sit aliquam."
+    },
+    {
+        "key": "f4",
+        "name": "Php (From Scratch)",
+        "details": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia aliquid temporibus laudantium vitae atque labore dolorem praesentium quod sit aliquam."
+    },
+    {
+        "key": "f5",
+        "name": "Kajabi",
+        "details": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia aliquid temporibus laudantium vitae atque labore dolorem praesentium quod sit aliquam."
+    }
+]
