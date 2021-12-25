@@ -1,5 +1,4 @@
-###Project Name : Calculate your price
+# Calculate your price (Calculator)
 
-#Live site link :
-
-#Git Reopsitory link :
+##### Live Site Link [Calculator](https://.web.app/).
+##### Git Repository Link [Repo](https://github.com/sanjimo/calculate-your-price).
