@@ -8,14 +8,14 @@ const FinalResult = () => {
         <div className="row mx-auto">
             <div className="col-lg-8 col-md-8 col-sm-12 border-end border-5">
                 <Row xs={1} lg={1} md={1} className="g-2 mx-auto mt-3 mb-5 w-75">
-                    <Col className="mb-4">
+                    <Col className="mb-5 mt-3">
                         <h5 className="fw-bold text-dark">DO YOU HAVE UX DESIGN READY?</h5>
                         <div className="mt-4">
                             <button type="button" className="btn btn-border-0 shadow ps-3 pe-3 custom-button text-dark me-2">Yes</button>
                             <button type="button" className="btn btn-border-0 shadow ps-3 pe-3 custom-button text-dark ms-2">No</button>
                         </div>
                     </Col>
-                    <Col className="mb-4">
+                    <Col className="mb-5 mt-3">
                         <h5 className="fw-bold text-dark">HOW MANY WEBPAGES DO YOU WANT FOR YOUR PUBLIC WEBSITE?</h5>
                         <div className="mt-4 w-50 mx-auto">
                             <label for="customRange2" className="form-label">Pages</label>
@@ -24,7 +24,7 @@ const FinalResult = () => {
                             </div>
                         </div>
                     </Col>
-                    <Col className="mb-4">
+                    <Col className="mb-5">
                         <h5 className="fw-bold text-dark">ANY PAYMENT GATEWAY INTEGRATION?</h5>
                         <div className="mt-4">
                             <button type="button" className="btn btn-border-0 shadow ps-3 pe-3 custom-button text-dark me-4">Stripe</button>
